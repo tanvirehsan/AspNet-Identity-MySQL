@@ -4,7 +4,7 @@
 
 
 
-AspNet Identity Implementation for MySQL are under [samples/aspnet/Identity/AspNet.Identity.MySQL] (samples/aspnet/Identity/AspNet.Identity.MySQL) directory.
+AspNet Identity Implementation for MySQL are under [samples/aspnet/Identity/AspNet.Identity.MySQL] (https://github.com/tanvirehsan/AspNet-Identity-MySQL/tree/master/samples/aspnet/Identity/AspNet.Identity.MySQL) directory.
 
 Samples for ASP.NET and ASP.NET Core.
 
